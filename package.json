@@ -11,7 +11,7 @@
     "url": "https://github.com/feross/fs-chunk-store/issues"
   },
   "dependencies": {
-    "random-access-file": "^2.0.1",
+    "random-access-file": "^2.1.4",
     "randombytes": "^2.0.3",
     "rimraf": "^3.0.0",
     "run-parallel": "^1.1.2",
